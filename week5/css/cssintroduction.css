@@ -1,0 +1,17 @@
+body {
+    text-align: center;
+    background-image: url(../img/onepiece.jpeg);
+    background-size: 1500px;
+    background-repeat: repeat;
+}
+
+h1 {
+    font-family: Verdana;
+    color: chocolate;
+}
+
+p {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+}

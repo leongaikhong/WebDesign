@@ -1,0 +1,37 @@
+body {
+    background-color: black;
+}
+
+div#main {
+    background-color: white;
+    height: 649px;
+    margin-top: 33px;
+    margin-left: 85px;
+    margin-right: 85px;
+}
+
+div#merlandfurniture {
+    border-top: 7px black solid;
+    border-right: 7px black solid;
+    border-bottom: 7px black solid;
+    text-align: center;
+    float: left;
+    margin-top: 140px;
+    padding-left: 60px;
+    padding-right: 60px;
+}
+
+div#picture {
+    text-align: right;
+    padding-right: 40px;
+}
+
+h1 {
+    text-align: left;
+    font-size: 80px;
+}
+
+p {
+    text-align: left;
+    font-size: 25px;
+}

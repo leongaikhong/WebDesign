@@ -1,0 +1,61 @@
+body {
+    background-color: black;
+}
+
+div#main {
+    background-color: white;
+    height: 649px;
+    margin-top: 33px;
+    margin-left: 85px;
+    margin-right: 85px;
+}
+
+div#customerreviews {
+    background-size: 10px;
+    text-align: center;
+    border-right: 8px black solid;
+    border-left: 8px black solid;
+    border-bottom: 8px black solid;
+    margin-left: 380px;
+    margin-right: 380px;
+}
+
+div#main2 {
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+div#murielle {
+    float: left;
+    margin-top: 110px;
+    margin-right: 150px;
+}
+
+div#inna {
+    float: left;
+    margin-top: 110px;
+}
+
+div#clyde {
+    float: left;
+    margin-top: 110px;
+    margin-left: 100px;
+}
+
+h1 {
+    padding-top: 40px;
+    padding-bottom: 30px;
+}
+
+h3 {
+    text-align: center;
+}
+
+p {
+    width: 249px;
+    text-align: center;
+}
+
+img {
+    height: 156px;
+}

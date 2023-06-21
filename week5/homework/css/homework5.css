@@ -1,0 +1,68 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    color: white;
+}
+
+h2 {
+    color: white;
+    width: 200px;
+}
+
+p {
+    color: white;
+    width: 275px;
+    font-size: 20px;
+}
+
+p#p1 {
+    color: white;
+    width: 260px;
+    font-size: 20px;
+    text-align: justify;
+}
+
+div#main {
+    background-color: black;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-left: 150px;
+    margin-right: 150px;
+    padding-top: 50px;
+    padding-left: 50px;
+}
+
+div#news {
+    width: 200px;
+    float: left;
+    margin-right: 100px;
+}
+
+div#araico {
+    width: 250px;
+    float: left;
+    border-bottom: 2px white solid;
+    margin-right: 50px;
+    padding-bottom: 30px;
+}
+
+div#clothing {
+    width: 250px;
+    float: left;
+    border-bottom: 2px white solid;
+    margin-right: 50px;
+    padding-bottom: 30px;
+}
+
+div#fw {
+    width: 250px;
+    float: left;
+    border-bottom: 2px white solid;
+    padding-bottom: 30px;
+}
+
+img {
+    height: 150px;
+}

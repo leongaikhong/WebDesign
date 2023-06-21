@@ -1,0 +1,32 @@
+body {
+    background-color: black;
+}
+
+div#main {
+    background-color: white;
+    margin-top: 33px;
+    margin-left: 85px;
+    margin-right: 85px;
+}
+
+div#image {
+    padding-top: 65px;
+    padding-bottom: 65px;
+}
+
+div#connect {
+    float: right;
+    text-align: right;
+    padding-right: 47px;
+    padding-left: 110px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    border-top: 7px black solid;
+    border-left: 7px black solid;
+    border-bottom: 7px black solid;
+    margin-top: 60px;
+}
+
+h1 {
+    font-size: 40px;
+}
