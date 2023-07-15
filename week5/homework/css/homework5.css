@@ -2,28 +2,6 @@ body {
     background-color: black;
 }
 
-h1 {
-    color: white;
-}
-
-h2 {
-    color: white;
-    width: 200px;
-}
-
-p {
-    color: white;
-    width: 275px;
-    font-size: 20px;
-}
-
-p#p1 {
-    color: white;
-    width: 260px;
-    font-size: 20px;
-    text-align: justify;
-}
-
 div#main {
     background-color: black;
     margin-top: 100px;
@@ -62,6 +40,28 @@ div#fw {
     float: left;
     border-bottom: 2px white solid;
     padding-bottom: 30px;
+}
+
+h1 {
+    color: white;
+}
+
+h2 {
+    color: white;
+    width: 200px;
+}
+
+p {
+    color: white;
+    width: 275px;
+    font-size: 20px;
+}
+
+p#p1 {
+    color: white;
+    width: 260px;
+    font-size: 20px;
+    text-align: justify;
 }
 
 img {
