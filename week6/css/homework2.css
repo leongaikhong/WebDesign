@@ -1,5 +1,4 @@
 body {
-    /* background-image: url(..\img\snorlax2.jpg); */
     background-color: rgb(19, 199, 199);
 }
 
@@ -16,6 +15,11 @@ body {
     display: flex;
 }
 
+.tdiv div p {
+    text-align: center;
+    padding-top: 350px;
+}
+
 .pm {
     text-align: end;
 }
@@ -23,6 +27,8 @@ body {
 .footer {
     background-color: #f1f1f1;
     text-align: center;
+    padding: 50px;
+    margin-top: 20px;
 }
 
 #menu {
@@ -35,14 +41,44 @@ body {
     text-align: center;
 }
 
+#menu a {
+    text-decoration: none;
+    color: black;
+}
+
 .feat {
     display: flex;
-    margin-right: 20px;
+    width: 100%;
     margin-top: 20px;
-    padding-left: 20px;
-    padding-right: 20px;
-    padding-top: 25px;
-    padding-bottom: 25px;
+    text-align: center;
+    height: 200px;
+}
+
+#f1 {
+    width: 25%;
+    background-color: #f1f1f1;
+    margin-right: 10px;
+    padding-top: 70px;
+}
+
+#f2 {
+    width: 25%;
+    background-color: #f1f1f1;
+    margin-right: 10px;
+    padding-top: 70px;
+}
+
+#f3 {
+    width: 25%;
+    background-color: #f1f1f1;
+    margin-right: 10px;
+    padding-top: 70px;
+}
+
+#f4 {
+    width: 25%;
+    background-color: #f1f1f1;
+    padding-top: 70px;
 }
 
 #text {
@@ -54,6 +90,7 @@ body {
     padding-top: 25px;
     padding-bottom: 25px;
     width: 65%;
+    height: 800px;
 }
 
 #sidebar {
@@ -64,4 +101,9 @@ body {
     padding-top: 25px;
     padding-bottom: 25px;
     width: 35%;
+}
+
+#img img {
+    width: 100%;
+    padding-top: 20px;
 }

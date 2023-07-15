@@ -1,5 +1,4 @@
 body {
-    /* background-image: url(..\img\snorlax2.jpg); */
     background-color: rgb(19, 199, 199);
 }
 
@@ -16,6 +15,11 @@ body {
     display: flex;
 }
 
+.tdiv div p {
+    text-align: center;
+    padding-top: 350px;
+}
+
 .pm {
     text-align: end;
 }
@@ -23,6 +27,8 @@ body {
 .footer {
     background-color: #f1f1f1;
     text-align: center;
+    padding: 50px;
+    margin-top: 20px;
 }
 
 #menu {
@@ -36,6 +42,11 @@ body {
     text-align: center;
 }
 
+#menu a {
+    text-decoration: none;
+    color: black;
+}
+
 #text {
     background-color: #f1f1f1;
     margin-right: 20px;
@@ -45,6 +56,7 @@ body {
     padding-top: 25px;
     padding-bottom: 25px;
     width: 65%;
+    height: 800px;
 }
 
 #sidebar {
@@ -55,4 +67,9 @@ body {
     padding-top: 25px;
     padding-bottom: 25px;
     width: 35%;
+}
+
+#img img {
+    width: 100%;
+    padding-top: 20px;
 }
