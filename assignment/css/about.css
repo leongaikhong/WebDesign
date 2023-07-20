@@ -81,6 +81,7 @@ body {
 
 .aboutdiv div p {
     width: 600px;
+    letter-spacing: 2px;
 }
 
 .about2div {
@@ -110,4 +111,10 @@ body {
     font-size: 50px;
     color: #670000;
     padding-bottom: 30px;
+}
+
+*,
+::after,
+::before {
+    box-sizing: border-box
 }
