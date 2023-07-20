@@ -1,0 +1,57 @@
+body {
+    margin: 0px;
+}
+
+.contactpage {
+    background-color: #FFEFAE;
+    height: 570px;
+}
+
+.contactpage2 {
+    height: 800px;
+}
+
+.nav {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 30px;
+}
+
+#img {
+    margin-left: 80px;
+}
+
+.link {
+    display: flex;
+    font-size: 18px;
+    margin-top: 10px;
+}
+
+.link div a {
+    padding-right: 10px;
+    text-decoration: none;
+    padding-left: 40px;
+    color: #670000;
+}
+
+.button {
+    margin-right: 80px;
+}
+
+.button a {
+    display: flex;
+    text-decoration: none;
+    color: white;
+    background-color: #670000;
+    padding-top: 18px;
+    padding-right: 65px;
+    padding-bottom: 18px;
+    padding-left: 30px;
+}
+
+#contact {
+    color: #670000;
+    font-size: 28px;
+    margin-top: 90px;
+    margin-left: 173px;
+}

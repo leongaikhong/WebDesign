@@ -1,0 +1,113 @@
+body {
+    margin: 0px;
+}
+
+.aboutpage {
+    background-color: #FFEFAE;
+    height: 570px;
+}
+
+.aboutpage2 {
+    height: 600px;
+}
+
+.nav {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 30px;
+}
+
+#img {
+    margin-left: 80px;
+}
+
+.link {
+    display: flex;
+    font-size: 18px;
+    margin-top: 10px;
+}
+
+.link div a {
+    padding-right: 10px;
+    text-decoration: none;
+    padding-left: 40px;
+    color: #670000;
+}
+
+.button {
+    margin-right: 80px;
+}
+
+.button a {
+    display: flex;
+    text-decoration: none;
+    color: white;
+    background-color: #670000;
+    padding-top: 18px;
+    padding-right: 65px;
+    padding-bottom: 18px;
+    padding-left: 30px;
+}
+
+#about {
+    color: #670000;
+    font-size: 28px;
+    margin-top: 90px;
+    margin-left: 173px;
+}
+
+.aboutme {
+    background-color: white;
+    width: 1420px;
+    height: 500px;
+    margin-top: 120px;
+    display: flex;
+}
+
+.aboutme div img {
+    padding-top: 100px;
+}
+
+#w1 {
+    font-size: 80px;
+    color: #670000;
+}
+
+.aboutdiv {
+    padding-left: 100px;
+    padding-right: 50px;
+    padding-top: 200px;
+}
+
+.aboutdiv div p {
+    width: 600px;
+}
+
+.about2div {
+    display: flex;
+    position: relative;
+    top: 100px;
+    padding-left: 100px;
+}
+
+.about2div div {
+    padding-right: 50px;
+}
+
+#t1 {
+    font-size: 50px;
+    color: #670000;
+    padding-bottom: 30px;
+}
+
+#t2 {
+    font-size: 50px;
+    color: #670000;
+    padding-bottom: 30px;
+}
+
+#t3 {
+    font-size: 50px;
+    color: #670000;
+    padding-bottom: 30px;
+}
